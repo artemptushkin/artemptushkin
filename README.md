@@ -2,7 +2,7 @@
 
 * :technologist: I work with Java/Kotlin Spring Boot applications
 * :astronaut: I explore distributed software architecture and software quality approaches
-* :man_scientist: I'm experting in contact testing and Spring stack
+* :man_scientist: I'm an expert in contact testing and Spring stack
 
 I create demo projects with best practices on those topics here and write to https://dev.to/art_ptushkin
 
