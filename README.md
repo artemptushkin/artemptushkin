@@ -4,7 +4,9 @@
 * :astronaut: I explore distributed software architecture and software quality approaches
 * :man_scientist: I'm an expert in contact testing and Spring stack
 
-I create demo projects with best practices on those topics here and write to https://dev.to/art_ptushkin
+I make demo projects with best practices on these topics here and write to https://dev.to/art_ptushkin
+
+📖 Mentoring at https://getmentor.dev/mentor/artem-ptushkin-582
 
 <!--
 **artemptushkin/artemptushkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
