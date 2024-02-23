@@ -6,8 +6,6 @@
 
 I make demo projects with best practices on these topics here and write to https://dev.to/art_ptushkin
 
-📖 Mentoring at https://getmentor.dev/mentor/artem-ptushkin-582
-
 <!--
 **artemptushkin/artemptushkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
